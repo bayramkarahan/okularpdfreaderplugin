@@ -18,3 +18,4 @@ X-KDE-Username=
 Icon=/usr/share/local/bay-pdf/pdf.svg
 InitialPreference=3
 StartupWMClass=pdf
+Name[tr_TR.UTF-8]=wpsreaderplugin
