@@ -1,11 +1,11 @@
 [Desktop Entry]
 Comment=Pdf Reader
 Comment[zh_CN]=PDF阅读器
-Exec=/usr/bin/wpspdf %F
-GenericName=Kingsoft Pdf Reader
-GenericName[zh_CN]=WPS PDF
+Exec=/usr/bin/okular %F
+GenericName=Okular Pdf Reader
+GenericName[zh_CN]=Okular PDF
 MimeType=application/pdf
-Name=WPS PDF
+Name=Okular PDF
 Name[zh_CN]=PDF
 StartupNotify=false
 Terminal=false
@@ -18,4 +18,4 @@ X-KDE-Username=
 Icon=/usr/share/local/bay-pdf/pdf.svg
 InitialPreference=3
 StartupWMClass=pdf
-Name[tr_TR.UTF-8]=wpsreaderplugin
+Name[tr_TR.UTF-8]=okularreaderplugin

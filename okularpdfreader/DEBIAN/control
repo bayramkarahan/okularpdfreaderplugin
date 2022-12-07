@@ -1,4 +1,4 @@
-Package: pdfreader
+Package: okularpdfreader
 Version: 1
 Architecture: all
 Depends: 
@@ -7,5 +7,5 @@ Recommends:
 Maintainer: Bayram Karahan [bayramk@gmail.com]
 Conflicts: 
 Replaces: 
-Provides: pdfreader
-Description: pdfreader eklenti
+Provides: okularpdfreader
+Description: okularpdfreader eklenti
